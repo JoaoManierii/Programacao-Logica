@@ -1,0 +1,8 @@
+?- tradlista([eins,neun,zwei],X).
+X = [um,nove,dois].
+
+?- tradlista(X,[um, sete, seis, dois]).
+X = [eins,sieben,sechs,zwei].
+
+?- tradlista([eins,sieben,sechs,zwei],[um,sete,seis,dois]).
+true.

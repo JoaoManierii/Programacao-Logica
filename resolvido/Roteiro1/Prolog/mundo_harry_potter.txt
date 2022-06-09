@@ -1,0 +1,5 @@
+ Quais das seguintes consultas são satisfeitas? Onde relevante, dê todas
+as instanciações de variáveis que levam ao sucesso.
+Foram satisfeitas as seguintes consultas: 
+magico(’McGonagall’). 
+magico(Hermione).

@@ -1,0 +1,32 @@
+ Um criminoso come
+ Um criminoso come 'mac lanche feliz'
+ Um criminoso come qualquer
+ Um criminoso come qualquer 'mac lanche feliz'
+ Um criminoso adora
+ Um criminoso adora 'mac lanche feliz'
+ Um criminoso adora qualquer
+ Um criminoso adora qualquer 'mac lanche feliz'
+ Um 'mac lanche feliz' come criminoso
+ Um 'mac lanche feliz' come
+ Um 'mac lanche feliz' come qualquer criminoso
+ Um 'mac lanche feliz' come qualquer
+ Um 'mac lanche feliz' adora criminoso
+ Um 'mac lanche feliz' adora 
+ Um 'mac lanche feliz' adora qualquer criminoso
+ Um 'mac lanche feliz' adora qualquer
+ qualquer criminoso come um
+ qualquer criminoso come um 'mac lanche feliz'
+ qualquer criminoso come 
+ qualquer criminoso come 'mac lanche feliz'
+ qualquer criminoso adora um
+ qualquer criminoso adora um 'mac lanche feliz'
+ qualquer criminoso adora
+ qualquer criminoso come  'mac lanche feliz'
+ qualquer 'mac lanche feliz' come um criminoso
+ qualquer 'mac lanche feliz' come um
+ qualquer 'mac lanche feliz' come criminoso
+ qualquer 'mac lanche feliz' come
+ qualquer 'mac lanche feliz' adora um criminoso
+ qualquer 'mac lanche feliz' adora um
+ qualquer 'mac lanche feliz' adora criminoso
+ qualquer 'mac lanche feliz' adora

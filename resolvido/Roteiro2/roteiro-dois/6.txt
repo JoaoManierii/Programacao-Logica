@@ -1,0 +1,9 @@
+?- viagem(valmont,losAngeles,X).
+
+A = vai(valmont, carro, saarbruecken, vai(saarbruecken, trem, paris, vai(paris, aviao, losAngeles))) ;
+A = vai(valmont, carro, metz, vai(metz, trem, paris, vai(paris, aviao, losAngeles))) ;
+false.
+
+?- viagem(valmont,losAngeles,vai(valmont, carro, metz,vai(metz, trem, paris, vai(paris, aviao, losAngeles)))).
+true .
+
